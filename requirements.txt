@@ -1,0 +1,4 @@
+tensorflow
+sumo-tools
+gym
+numpy
